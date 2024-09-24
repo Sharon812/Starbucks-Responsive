@@ -8,17 +8,17 @@ body{
     border-bottom: 1px solid grey ;
 
 }
-@media screen and (max-width: 992px) {
+/* @media screen and (max-width: 992px) {
 .navbar{
     height: 70px;
 }
 .navbar-nav .nav-link:hover {
     color: rgb(72, 233, 72);
-}
+} */
 
 
 
-}
+/* } */
 .nav-item a{
     color: rgb(0, 0, 0);
     font-size: 15px;
@@ -43,7 +43,7 @@ body{
 
     }
     .imd{
-      width: 1000px ;
+      width: 100% ;
     }
   }
   .sec3{
