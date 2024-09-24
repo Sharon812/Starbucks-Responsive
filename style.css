@@ -57,5 +57,6 @@ background-color: black;
   .footlink a:hover{
     color: rgb(31, 88, 45);
   }
-
-
+  .para{
+   text-align: center;
+  }
