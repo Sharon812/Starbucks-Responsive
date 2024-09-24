@@ -42,7 +42,9 @@ body{
         font-size: 18px !important;
 
     }
-    
+    .imd{
+      width: 1000px ;
+    }
   }
   .sec3{
 margin: 1%;
