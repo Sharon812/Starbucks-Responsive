@@ -61,6 +61,13 @@ body{
   height: 620px;
   background-color:#9e2240;
 }
+.sec2o{
+  height: 620px; 
+  background-image:url(images/sec2pic.webp) ;
+  background-size:cover;
+  background-repeat: no-repeat; 
+  background-position: center;
+}
 .sec3-r{
 height: 420px; 
 background-color: #006241;
