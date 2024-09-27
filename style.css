@@ -8,25 +8,117 @@ body{
     border-bottom: 1px solid grey ;
 
 }
-/* @media screen and (max-width: 992px) {
+.navbar-brand img{
+  height: 50px;
+  width: 49px;
+
+}
 .navbar{
-    height: 70px;
+  margin-left: 2%;
 }
-.navbar-nav .nav-link:hover {
-    color: rgb(72, 233, 72);
-} */
 
-
-
-/* } */
 .nav-item a{
-    color: rgb(0, 0, 0);
-    font-size: 15px;
-    
-    font-weight: 600;
-    
-    
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  font-weight: 600;
 }
+.sec1{
+  background-color:rgb(255, 255, 255) ;
+  margin: 1%;
+  height: 620px;
+  margin-top: 2%;
+}
+.sec1-l{
+  height: 620px;
+  background-color: #006241;
+}
+.sec1-l-r {
+  text-align: center
+}
+.headsec1{
+  font-size: 50px;
+  font-weight: 600;
+  color: white;
+}
+.headsec2{
+  font-size: 25px; 
+  font-weight: 600;
+  color: white;
+}
+.sec1-r{
+  height: 620px;
+  background-image:url(images/sec1pic.webp) ;
+  background-size:cover;
+  background-repeat: no-repeat;
+   background-position: center;
+}
+.sec1-ri{
+  background-color: #006241; 
+  height: 100px;
+  margin-top: 1%;
+}
+.sec2-l{
+  height: 620px;
+  background-color:#9e2240;
+}
+.sec3-r{
+height: 420px; 
+background-color: #006241;
+background-size:cover;
+background-repeat: no-repeat;
+margin-top: 1%;
+}
+.sec4-r{
+  height: 420px; 
+  background-image: url(images/sec3pic.webp);
+  background-size:cover; 
+  background-repeat: no-repeat;
+  margin-top: 1% ;
+  background-position: center; 
+
+}
+.sec-4-l{
+  height: 620px; 
+  background-image: url(images/sec4pic.jpg);
+  background-size:cover; 
+  background-repeat: no-repeat;
+  margin-top: 1%; 
+  background-position: center;
+}
+
+.sec4{
+  height: 620px;
+  background-color:#007179;
+  background-size:cover;
+  background-repeat: no-repeat;
+  margin-top: 1%;
+}
+.sec5-l{
+  height: 620px; 
+  background-image: url(images/sec5pic.webp);
+  background-size:cover; 
+  background-repeat: no-repeat;
+  margin-top: 1%; 
+  background-position: center;
+}
+.sec5-r{
+  height: 620px; 
+  background-color:#ffbe9e;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+.abt{
+  margin-top: 2%;
+  margin-left: 1%;
+}
+.footend{
+  margin-top: 1%;
+  margin-bottom: 2%;
+  width: 50%;
+}
+
+
+
 
 @media screen and (max-width: 968px) {
     .col-md-6 {
